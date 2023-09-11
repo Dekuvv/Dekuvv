@@ -2,14 +2,11 @@
 <h3 align="center">Student from Politeknik Negeri Malang</h3>
 
 <p align="center">
-  <img width="100" src="https://media.tenor.com/Iz-P5CAP_BcAAAAM/me-too.gif"/>
-  <img width="100" src="https://media.tenor.com/Iz-P5CAP_BcAAAAM/me-too.gif"/>
-  <img width="100" src="https://media.tenor.com/Iz-P5CAP_BcAAAAM/me-too.gif"/>
-  <img width="100" src="https://media.tenor.com/Iz-P5CAP_BcAAAAM/me-too.gif"/>
-  <img width="100" src="https://media.tenor.com/Iz-P5CAP_BcAAAAM/me-too.gif"/>
-  <img width="100" src="https://media.tenor.com/Iz-P5CAP_BcAAAAM/me-too.gif"/>
-  <img width="100" src="https://media.tenor.com/Iz-P5CAP_BcAAAAM/me-too.gif"/>
-  <img width="100" src="https://media.tenor.com/Iz-P5CAP_BcAAAAM/me-too.gif"/>
+  <img width="200" src="https://media.tenor.com/Iz-P5CAP_BcAAAAM/me-too.gif"/>
+  <img width="200" src="https://media.tenor.com/Iz-P5CAP_BcAAAAM/me-too.gif"/>
+  <img width="200" src="https://media.tenor.com/Iz-P5CAP_BcAAAAM/me-too.gif"/>
+  <img width="200" src="https://media.tenor.com/Iz-P5CAP_BcAAAAM/me-too.gif"/>
+
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dekuvv&label=Profile%20views&color=0e75b6&style=flat" alt="Dekuvv" /> </p>
