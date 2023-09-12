@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adit Bagus</h1>
 <h3 align="center">Student from Politeknik Negeri Malang</h3>
+<h3 align="center">Masih Pemula Puh Sepuh</h3>
 
 <p align="center">
   <img width="200" src="https://media.tenor.com/Iz-P5CAP_BcAAAAM/me-too.gif"/>
