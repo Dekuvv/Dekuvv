@@ -3,10 +3,10 @@
 <h3 align="center">Masih Pemula Puh Sepuh</h3>
 
 <p align="center">
-  <img width="200" src="https://media.tenor.com/Iz-P5CAP_BcAAAAM/me-too.gif"/>
-  <img width="200" src="https://media.tenor.com/6KHWFLYzdqgAAAAC/what-umm.gif"/>
-  <img width="200" src="https://media.tenor.com/Iz-P5CAP_BcAAAAM/me-too.gif"/>
-  <img width="200" src="https://media.tenor.com/6KHWFLYzdqgAAAAC/what-umm.gif"/>
+  <img width="200" src="https://media.tenor.com/bU_xhHb0YUMAAAAd/anime-retro-anime.gif"/>
+  <img width="200" src="https://media.tenor.com/bU_xhHb0YUMAAAAd/anime-retro-anime.gif"/>
+  <img width="200" src="https://media.tenor.com/bU_xhHb0YUMAAAAd/anime-retro-anime.gif"/>
+  <img width="200" src="https://media.tenor.com/bU_xhHb0YUMAAAAd/anime-retro-anime.gif"/>
 
 </p>
 
